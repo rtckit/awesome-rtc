@@ -23,6 +23,9 @@
   - [Python Libraries](#python-libraries)
   - [Erlang Libraries](#erlang-libraries)
 - [Blogs](#blogs)
+- [Books](#books)
+  - [SIP/RTP](#siprtp)
+  - [WebRTC](#webrtc)
 - [Discussion](#discussion)
 - [Events](#events)
 
@@ -139,6 +142,19 @@
 - [BlogGeekMe](https://bloggeek.me/blog) - Blog by Tsahi Levent-Levi with a strong focus on WebRTC.
 - [SIP Adventures](https://andrewjprokop.wordpress.com) - Unified communications blog by Andrew Prokop.
 - [WebRTCHacks](https://webrtchacks.com) - WebRTC blog by independent technologists.
+
+
+## Books
+
+### SIP/RTP
+
+- [FreeSWITCH 1.8](https://www.packtpub.com/networking-and-servers/freeswitch-18) - Reference book by Anthony Minessale II and Giovanni Maruzzelli.
+
+### WebRTC
+
+- [WebRTCBook](http://webrtcbook.com) - Reference book by Dr. Alan B. Johnston and Dr. Daniel C. Burnett.
+- [Getting Started with WebRTC](http://www.packtpub.com/getting-started-with-webrtc/book) - By Rob Manson.
+- [Real-Time Communication with WebRTC](http://bloggeek.me/book-webrtc-salvatore-simon) - By Salvatore Loreto & Simon Pietro Romano.
 
 
 ## Discussion
