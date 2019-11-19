@@ -153,7 +153,7 @@
 - [Kamailio World](https://www.kamailioworld.com) - Berlin hosted annual event focused on Kamailio as well as VoIP, WebRTC, IMS, VoLTE and more.
 - [AstriCon](https://www.asterisk.org/community/astricon-user-conference) - Asterisk focus event held every year across the US.
 - [CommCon](https://commcon.xyz) - Annual conference held in the UK focused on telecommunications in general and WebRTC in particular.
-- [OpenSIPS](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
+- [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
 - [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
 - [FOSDEM](https://fosdem.org/2020) - Free event for software developers, with a RTC component, held every year in Europe.
 
