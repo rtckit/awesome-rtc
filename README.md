@@ -1,6 +1,6 @@
-# Awesome Real Time Communication [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Real Time Communications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Real Time Communication (RTC) resources
+> A curated list of awesome Real Time Communication software, tools, developer resources and more.
 
 
 ## Contents
