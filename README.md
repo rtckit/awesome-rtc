@@ -49,7 +49,7 @@
 - [RTPProxy](https://www.rtpproxy.org) - General purpose high performance RTP proxy.
 - [RTP:Engine](https://github.com/sipwise/rtpengine) - RTP and UDP based media traffic proxy, usable as a kernel module.
 - [mediasoup](https://mediasoup.org) - Specialized WebRTC conferencing system.
-- [Sems](http://sems.org) - Open source media and application server for SIP based VoIP services.
+- [SEMS](https://github.com/sems-server/sems) - Open source media and application server for SIP based VoIP services.
 
 ### STUN/TURN
 
