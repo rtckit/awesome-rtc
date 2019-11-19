@@ -3,8 +3,9 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate;
-- Suggested resources should bring out of box value to the audience;
-- Purely/overly commercial suggestions are not acceptable;
+- Suggested resources should bring out of box value to the audience:
+  - Purely/overly commercial suggestions are not acceptable;
+  - Literature from IETF, ITU and other similar bodies are likely too specialized to be accepted;
 - Make an individual pull request for each suggestion;
 - Use the following format: `- [PACKAGE](LINK) - DESCRIPTION.`;
 - New categories, or improvements to the existing categorization are welcome;
