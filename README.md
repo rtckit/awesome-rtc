@@ -115,6 +115,7 @@
 - [usrsctp](https://github.com/sctplab/usrsctp) - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 - [rawrtc](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC library with a small footprint.
 - [OSS Core](https://github.com/joegen/oss_core) - General purpose C++ library for Real Time Communications.
+- [Open WebRTC Toolkit](https://01.org/open-webrtc-toolkit) - WebRTC development toolkit with bindings for multiple platforms.
 
 ### Go Libraries
 
