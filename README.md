@@ -13,7 +13,7 @@
 - [Operations](#operations)
   - [Monitoring](#monitoring)
   - [Testing](#testing)
-  - [Web Interfaces](#web-interfaces)
+  - [Web/API Interfaces](#webapi-interfaces)
   - [Billing](#billing)
 - [Developer Resources](#developer-resources)
   - [Tutorials](#tutorials)
@@ -74,8 +74,9 @@
 - [SIPVicious](https://github.com/EnableSecurity/sipvicious) - Suite of security tools that can be used to audit SIP based VoIP systems.
 - [sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP stress and diagnostics utility.
 
-### Web Interfaces
+### Web/API Interfaces
 
+- [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
 - [FusionPBX](https://www.fusionpbx.com) - Multitenant system built on top of FreeSWITCH.
 - [FreePBX](https://www.freepbx.org) - Web Manager for Asterisk.
 
