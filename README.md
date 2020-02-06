@@ -91,7 +91,7 @@
 
 ### Tutorials
 
-- [Official Website](https://webrtc.org/start) - Entry level WebRTC resources.
+- [Official Website](https://webrtc.org) - Entry level WebRTC resources.
 - [Getting Started With WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics) - WebRTC tutorial by HTML5 Rocks.
 - [WebRTC Samples](https://webrtc.github.io/samples) - Collection of samples demonstrating various parts of the WebRTC APIs.
 - [WebRTC Experiments](https://www.webrtc-experiment.com) - Comprehensive list of samples by Muaz Khan.
