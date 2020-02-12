@@ -38,7 +38,6 @@
 
 - [Kamailio](http://www.kamailio.org) - Open source SIP server widely deployed by carriers and providers. Formerly known as OpenSER.
 - [OpenSIPS](http://www.opensips.org) - Open source SIP server, tracing its roots in OpenSER (presently Kamailio).
-- [repro](http://www.resiprocate.org/About_Repro) - Multi-purpose SIP server supporting federation, built on the reSIProcate framework.
 - [Routr](https://routr.io) - Lightweight SIP proxy, location server, and registrar written in Node.js.
 - [Sippy B2BUA](https://github.com/sippy/b2bua) - Back-to-back user agent server written in Python.
 - [Flexisip](https://www.linphone.org/technical-corner/flexisip) - SIP server suite comprising proxy, presence and group chat functions.
