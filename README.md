@@ -129,6 +129,7 @@
 
 - [aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio.
 - [Katari](https://github.com/hyperioxx/Katari) - SIP stack application framework.
+- [peerjs-python](https://github.com/ambianic/peerjs-python) - Python port of the PeerJS peer-to-peer connection library.
 
 ### Erlang Libraries
 
