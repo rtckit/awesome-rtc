@@ -1,4 +1,15 @@
 language: ruby
-rvm: 2.4.1
-before_script: gem install awesome_bot
-script: awesome_bot --allow-redirect README.md
+node_js:
+  - 'node'
+rvm:
+  - 2.4.1
+env:
+  - TRAVIS_NODE_VERSION="12"
+install:
+  - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm && (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`) && source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION
+before_script:
+  - gem install awesome_bot
+  - npm install --global awesome-lint
+script:
+  - awesome-lint
+  - awesome_bot --allow-redirect README.md
