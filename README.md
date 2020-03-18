@@ -23,6 +23,7 @@
   - [Python Libraries](#python-libraries)
   - [Erlang Libraries](#erlang-libraries)
   - [Rust Libraries](#rust-libraries)
+  - [Dart Libraries](#dart-libraries)
 - [Blogs](#blogs)
 - [Discussion](#discussion)
 - [Events](#events)
@@ -143,6 +144,10 @@
 - [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
 - [sipcore](https://github.com/armatusmiles/sipcore) - Rust framework for creating SIP applications.
 - [rtcrs/webrtc](https://github.com/rtcrs/webrtc) - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
+
+### Dart Libraries
+
+- [dart-sip-ua](https://github.com/cloudwebrtc/dart-sip-ua) - Dart-lang port of JsSIP, capable of SIP over WebSocket.
 
 
 ## Blogs
