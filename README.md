@@ -40,7 +40,7 @@
 - [OpenSIPS](http://www.opensips.org) - Open source SIP server, tracing its roots in OpenSER (presently Kamailio).
 - [Routr](https://routr.io) - Lightweight SIP proxy, location server, and registrar written in Node.js.
 - [Sippy B2BUA](https://github.com/sippy/b2bua) - Back-to-back user agent server written in Python.
-- [Flexisip](https://www.linphone.org/technical-corner/flexisip) - SIP server suite comprising proxy, presence and group chat functions.
+- [Flexisip](https://github.com/BelledonneCommunications/flexisip) - SIP server suite comprising proxy, presence and group chat functions.
 
 ### Media Servers
 
