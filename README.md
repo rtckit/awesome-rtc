@@ -22,6 +22,7 @@
   - [Go Libraries](#go-libraries)
   - [Python Libraries](#python-libraries)
   - [Erlang Libraries](#erlang-libraries)
+  - [Rust Libraries](#rust-libraries)
 - [Blogs](#blogs)
 - [Discussion](#discussion)
 - [Events](#events)
@@ -136,6 +137,12 @@
 
 - [NkSIP](https://github.com/NetComposer/nksip) - Extendable SIP server framework.
 - [ersip](https://github.com/poroh/ersip) - Library comprising building blocks for SIP applications.
+
+### Rust Libraries
+
+- [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
+- [sipcore](https://github.com/armatusmiles/sipcore) - Rust framework for creating SIP applications.
+- [rtcrs/webrtc](https://github.com/rtcrs/webrtc) - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
 
 
 ## Blogs
