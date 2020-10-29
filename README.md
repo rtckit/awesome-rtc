@@ -53,6 +53,7 @@
 - [RTP:Engine](https://github.com/sipwise/rtpengine) - RTP and UDP based media traffic proxy, usable as a kernel module.
 - [mediasoup](https://mediasoup.org) - Specialized WebRTC conferencing system.
 - [SEMS](https://github.com/sems-server/sems) - Open source media and application server for SIP based VoIP services.
+- [Jitsi](https://jitsi.org/projects/) - A collection of RTC open source projects, with a focus on conferencing software.
 
 ### STUN/TURN
 
