@@ -20,6 +20,7 @@
   - [JavaScript Libraries](#javascript-libraries)
   - [C/C++ Libraries](#cc-libraries)
   - [Go Libraries](#go-libraries)
+  - [PHP Libraries](#php-libraries)
   - [Python Libraries](#python-libraries)
   - [Erlang Libraries](#erlang-libraries)
   - [Rust Libraries](#rust-libraries)
@@ -127,6 +128,10 @@
 - [gossip](https://github.com/StefanKopieczek/gossip) - SIP stack for stateful user agents written in Go.
 - [siprocket](https://github.com/marv2097/siprocket) - Fast SIP and SDP packet parser.
 - [go-diameter](https://github.com/fiorix/go-diameter) - RFC compliant Diameter protocol library.
+
+### PHP Libraries
+
+- [RTCKit/SIP](https://github.com/rtckit/php-sip) - RFC 3261 compliant SIP parsing and rendering library for PHP 7.4+.
 
 ### Python Libraries
 
