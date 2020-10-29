@@ -28,6 +28,7 @@
 - [Blogs](#blogs)
 - [Discussion](#discussion)
 - [Events](#events)
+- [Contribute](#contribute)
 
 
 ## Server Software
@@ -112,7 +113,7 @@
 
 ### C/C++ Libraries
 
-- [libre](http://www.creytiv.com) - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
+- [libre](https://github.com/creytiv/re) - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
 - [PJSIP](https://www.pjsip.org) - Multi-protocol RTC library written in C.
 - [eXosip](http://savannah.nongnu.org/projects/exosip) - eXtended osip is a mature C library for abstracting the SIP protocol.
 - [libdatachannel](https://github.com/paullouisageneau/libdatachannel) - Standalone WebRTC DataChannels C++ implementation.
