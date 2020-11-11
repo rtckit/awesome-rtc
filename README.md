@@ -28,6 +28,7 @@
 - [Blogs](#blogs)
 - [Discussion](#discussion)
 - [Events](#events)
+- [Related Lists](#related-lists)
 - [Contribute](#contribute)
 
 
@@ -179,6 +180,15 @@
 - [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
 - [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
 - [FOSDEM](https://fosdem.org/2020) - Free event for software developers, with a RTC component, held every year in Europe.
+
+
+## Related Lists
+
+- [Awesome RIPT](https://github.com/rtckit/awesome-ript) - Real Time Internet Peering for Telephony.
+- [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) - Real Time Communications hacking and penetration testing resources.
+- [Awesome 5G](https://github.com/calee0219/awesome-5g) - 5G frameworks, libraries, software and resources.
+- [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Research resources in the 3G/4G/5G Cellular security space.
+- [Awesome Telco](https://github.com/ravens/awesome-telco) - Telco resources and projects.
 
 
 ## Contribute
