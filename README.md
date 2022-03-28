@@ -13,6 +13,7 @@
 - [Operations](#operations)
   - [Monitoring](#monitoring)
   - [Testing](#testing)
+  - [Deployment](#deployment)
   - [Web/API Interfaces](#webapi-interfaces)
   - [Billing](#billing)
 - [Developer Resources](#developer-resources)
