@@ -54,7 +54,7 @@
 - [RTP:Engine](https://github.com/sipwise/rtpengine) - RTP and UDP based media traffic proxy, usable as a kernel module.
 - [mediasoup](https://mediasoup.org) - Specialized WebRTC conferencing system.
 - [SEMS](https://github.com/sems-server/sems) - Open source media and application server for SIP based VoIP services.
-- [Jitsi](https://jitsi.org/projects/) - A collection of RTC open source projects, with a focus on conferencing software.
+- [Jitsi](https://jitsi.org/projects) - A collection of RTC open source projects, with a focus on conferencing software.
 
 ### STUN/TURN
 
@@ -70,7 +70,7 @@
 - [sipgrep](https://github.com/sipcapture/sipgrep) - Console tool for sniffing, capturing and exploring SIP traffic.
 - [rtpbreak](https://github.com/Naishy/rtpsplit) - Detect, reconstruct and analyze RTP sessions.
 - [HOMER](https://github.com/sipcapture/homer) - Multi-protocol capturing and monitoring framework for RTC.
-- [WebRTC Troubleshooter](https://test.webrtc.org) - One stop client-side WebRTC troubleshooter.
+- [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) - Self-hosted one stop client-side WebRTC troubleshooter.
 - [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - Exposes client-side NAT traversal debug data.
 - [SIP3](https://sip3.io) - VoIP & RTC traffic monitoring and analysis platform.
 
@@ -79,12 +79,22 @@
 - [SIPp](http://sipp.sourceforge.net) - Traffic generator for the SIP protocol.
 - [SIPVicious](https://github.com/EnableSecurity/sipvicious) - Suite of security tools that can be used to audit SIP based VoIP systems.
 - [sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP stress and diagnostics utility.
+- [sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP command line tool.
+
+### Deployment
+
+- [slimswitch](https://github.com/rtckit/slimswitch) - Tooling for creating lean secure FreeSWITCH Docker images.
 
 ### Web/API Interfaces
 
+- [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
 - [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
 - [FusionPBX](https://www.fusionpbx.com) - Multitenant system built on top of FreeSWITCH.
 - [FreePBX](https://www.freepbx.org) - Web Manager for Asterisk.
+- [Fonoster](https://github.com/fonoster/fonoster) - Telecommunication stack built with Node.js.
+- [Wazo](https://wazo-platform.org) - VoIP API platform built on top of Asterisk, Kamailio and RTPEngine.
+- [jambonz](https://www.jambonz.org) - Open source CPaaS built for communications service providers.
+- [IVOZ Provider](https://github.com/irontec/ivozprovider) - Multitenant solution for VoIP telephony providers.
 
 ### Billing
 
@@ -124,6 +134,7 @@
 - [rawrtc](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC library with a small footprint.
 - [OSS Core](https://github.com/joegen/oss_core) - General purpose C++ library for Real Time Communications.
 - [Open WebRTC Toolkit](https://01.org/open-webrtc-toolkit) - WebRTC development toolkit with bindings for multiple platforms.
+- [Sofia-SIP](https://github.com/freeswitch/sofia-sip) - Open source SIP library used by FreeSWITCH.
 
 ### Go Libraries
 
@@ -176,10 +187,12 @@
 - [ClueCon](http://cluecon.com) - Annual conference held in Chicago for telecommunications developers. Birthplace of FreeSWITCH.
 - [Kamailio World](https://www.kamailioworld.com) - Berlin hosted annual event focused on Kamailio as well as VoIP, WebRTC, IMS, VoLTE and more.
 - [AstriCon](https://www.asterisk.org/community/astricon-user-conference) - Asterisk focus event held every year across the US.
-- [CommCon](https://2019.commcon.xyz) - Annual conference held in the UK focused on telecommunications in general and WebRTC in particular.
+- [CommCon](https://commcon.xyz) - Annual conference held in the UK focused on telecommunications in general and WebRTC in particular.
 - [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
 - [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
-- [FOSDEM](https://fosdem.org/2020) - Free event for software developers, with a RTC component, held every year in Europe.
+- [FOSDEM](https://fosdem.org) - Free event for software developers, with a RTC component, held every year in Europe.
+- [JanusCon](https://www.januscon.it) - JanusCon is a live event for Janus and RTC implementers.
+- [TADHack](https://tadhack.com) - Global hackathon focused on programmable communications.
 
 
 ## Related Lists
@@ -189,6 +202,7 @@
 - [Awesome 5G](https://github.com/calee0219/awesome-5g) - 5G frameworks, libraries, software and resources.
 - [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Research resources in the 3G/4G/5G Cellular security space.
 - [Awesome Telco](https://github.com/ravens/awesome-telco) - Telco resources and projects.
+- [SIP Resources](https://github.com/miconda/sip-resources) - Useful SIP resources curated by Kamailio's head developer.
 
 
 ## Contribute
