@@ -123,6 +123,7 @@
 - [simple-peer](https://github.com/feross/simple-peer) - WebRTC video, voice, and data channels abstraction for Node.js and the browser.
 - [Netflux](https://github.com/coast-team/netflux) - Isomorphic JavaScript peer to peer transport API for client and server.
 - [PeerJS](https://peerjs.com) - Data and media peer-to-peer connection API implemented over WebRTC.
+- [Socio](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) API framework. Realtime Front-end, Back-end reactivity.
 
 ### C/C++ Libraries
 
