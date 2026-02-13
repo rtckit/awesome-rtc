@@ -98,6 +98,7 @@
 - [jambonz](https://www.jambonz.org) - Open source CPaaS built for communications service providers.
 - [IVOZ Provider](https://github.com/irontec/ivozprovider) - Multitenant solution for VoIP telephony providers.
 - [Sayna](https://github.com/SaynaAI/sayna) - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+- [Telnyx](https://telnyx.com) - Cloud communications platform with programmable voice, SIP trunking, and real-time media streaming APIs.
 
 ### Billing
 
