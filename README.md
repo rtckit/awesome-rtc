@@ -72,6 +72,7 @@
 
 - [sngrep](https://github.com/irontec/sngrep) - Terminal based SIP flow viewer.
 - [sipgrep](https://github.com/sipcapture/sipgrep) - Console tool for sniffing, capturing and exploring SIP traffic.
+- [rtcstats](https://rtcstats.com) - Troubleshoot and debug webrtc-internals and rtctats files visually.
 - [rtpbreak](https://github.com/Naishy/rtpsplit) - Detect, reconstruct and analyze RTP sessions.
 - [HOMER](https://github.com/sipcapture/homer) - Multi-protocol capturing and monitoring framework for RTC.
 - [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) - Self-hosted one stop client-side WebRTC troubleshooter.
