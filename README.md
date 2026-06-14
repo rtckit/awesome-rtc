@@ -128,6 +128,7 @@
 - [Netflux](https://github.com/coast-team/netflux) - Isomorphic JavaScript peer to peer transport API for client and server.
 - [PeerJS](https://peerjs.com) - Data and media peer-to-peer connection API implemented over WebRTC.
 - [Socio](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) API framework. Realtime Front-end, Back-end reactivity.
+- [Safe RPC](https://github.com/dotexorg/saferpc) - Typed, end-to-end encrypted RPC for WebRTC and any bidirectional channel.
 
 ### C/C++ Libraries
 
