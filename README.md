@@ -76,6 +76,7 @@
 - [HOMER](https://github.com/sipcapture/homer) - Multi-protocol capturing and monitoring framework for RTC.
 - [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) - Self-hosted one stop client-side WebRTC troubleshooter.
 - [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - Exposes client-side NAT traversal debug data.
+- [rtcStats](https://github.com/rtcstats/rtcstats) - Open-source WebRTC observability and debugging: getStats capture, session dump analysis, and quality metrics (hosted option at rtcstats.com).
 - [SIP3](https://sip3.io) - VoIP & RTC traffic monitoring and analysis platform.
 
 ### Testing
