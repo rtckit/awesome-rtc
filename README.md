@@ -81,6 +81,7 @@
 ### Monitoring
 
 - [sngrep](https://github.com/irontec/sngrep) - Terminal based SIP flow viewer.
+- [sip-exporter](https://github.com/aibudaevv/sip-exporter) - Open-source eBPF sensor exporting Prometheus metrics and Grafana dashboards for host-observed IPv4/UDP SIP and correlated RTP/RTCP.
 - [sipgrep](https://github.com/sipcapture/sipgrep) - Console tool for sniffing, capturing and exploring SIP traffic.
 - [HOMER](https://github.com/sipcapture/homer) - Multi-protocol capturing and monitoring framework for RTC.
 - [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - Exposes client-side NAT traversal debug data.
