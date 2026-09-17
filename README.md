@@ -16,6 +16,7 @@
   - [Deployment](#deployment)
   - [Web/API Interfaces](#webapi-interfaces)
   - [Billing](#billing)
+  - [Clients](#clients)
 - [Developer Resources](#developer-resources)
   - [Tutorials](#tutorials)
   - [JavaScript Libraries](#javascript-libraries)
@@ -107,6 +108,10 @@
 - [A2Billing](http://www.asterisk2billing.org) - Billing system for Asterisk for multiple applications.
 - [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) - Wholesale billing platform for Kamailio and FreeSWITCH.
 
+
+## Clients
+
+- [Browser-Phone](https://github.com/Siperb/Browser-Phone) - A fully featured browser-based WebRTC SIP phone for Asterisk.
 
 ## Developer Resources
 
