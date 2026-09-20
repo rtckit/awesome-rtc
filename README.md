@@ -29,7 +29,6 @@
 - [Blogs](#blogs)
 - [Discussion](#discussion)
 - [Events](#events)
-- [Related Lists](#related-lists)
 - [Contribute](#contribute)
 
 
@@ -66,7 +65,7 @@
 - [STUNTMAN](https://github.com/jselbie/stunserver) - RFC compliant open source STUN implementation.
 
 
-	## Operations
+## Operations
 
 ### Monitoring
 
@@ -100,6 +99,7 @@
 - [jambonz](https://www.jambonz.org) - Open source CPaaS built for communications service providers.
 - [IVOZ Provider](https://github.com/irontec/ivozprovider) - Multitenant solution for VoIP telephony providers.
 - [Sayna](https://github.com/SaynaAI/sayna) - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+- [AI Native Call Center](https://github.com/rasonyang/ai-native-callcenter) - FreeSWITCH-based call center with real-time speech-to-speech model integration.
 
 ### Billing
 
@@ -198,7 +198,7 @@
 - [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
 - [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
 - [FOSDEM](https://fosdem.org) - Free event for software developers, with a RTC component, held every year in Europe.
-- [JanusCon](https://www.januscon.it) - JanusCon is a live event for Janus and RTC implementers.
+- [JanusCon](https://www.januscon.it) - Live event for Janus and RTC implementers.
 - [TADHack](https://tadhack.com) - Global hackathon focused on programmable communications.
 
 
