@@ -209,6 +209,7 @@
 - [Awesome 5G](https://github.com/calee0219/awesome-5g) - 5G frameworks, libraries, software and resources.
 - [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Research resources in the 3G/4G/5G Cellular security space.
 - [Awesome Telco](https://github.com/ravens/awesome-telco) - Telco resources and projects.
+- [Awesome FreeSWITCH](https://github.com/ictinnovations/awesome-freeswitch) - FreeSWITCH tooling: Event Socket libraries, call audio streaming, distributions and monitoring.
 - [SIP Resources](https://github.com/miconda/sip-resources) - Useful SIP resources curated by Kamailio's head developer.
 
 
