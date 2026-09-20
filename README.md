@@ -29,7 +29,6 @@
 - [Blogs](#blogs)
 - [Discussion](#discussion)
 - [Events](#events)
-- [Related Lists](#related-lists)
 - [Contribute](#contribute)
 
 
@@ -47,6 +46,7 @@
 - [Routr](https://routr.io) - Lightweight SIP proxy, location server, and registrar written in Node.js.
 - [Sippy B2BUA](https://github.com/sippy/b2bua) - Back-to-back user agent server written in Python.
 - [Flexisip](https://github.com/BelledonneCommunications/flexisip) - SIP server suite comprising proxy, presence and group chat functions.
+- [FreeSBC](https://github.com/rasonyang/freesbc) - Open source session border controller with SIP proxying and RTP relay for FreeSWITCH.
 
 ### Media Servers
 
@@ -66,7 +66,7 @@
 - [STUNTMAN](https://github.com/jselbie/stunserver) - RFC compliant open source STUN implementation.
 
 
-	## Operations
+## Operations
 
 ### Monitoring
 
@@ -198,7 +198,7 @@
 - [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
 - [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
 - [FOSDEM](https://fosdem.org) - Free event for software developers, with a RTC component, held every year in Europe.
-- [JanusCon](https://www.januscon.it) - JanusCon is a live event for Janus and RTC implementers.
+- [JanusCon](https://www.januscon.it) - Live event for Janus and RTC implementers.
 - [TADHack](https://tadhack.com) - Global hackathon focused on programmable communications.
 
 
