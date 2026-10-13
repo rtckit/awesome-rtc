@@ -120,6 +120,7 @@
 
 ### JavaScript Libraries
 
+- [TalkAStranger Live Linker SDK](https://github.com/umairkhan2582/talkastranger-live-linker-sdk) - Real-time creator tools and stream linker for WebRTC video chat and multi-platform broadcasting.
 - [drachtio](https://drachtio.org) - Node.js SIP server framework.
 - [adapter.js](https://github.com/webrtcHacks/adapter) - JavaScript shim for abstracting WebRTC spec changes and inconsistencies.
 - [JsSIP](http://jssip.net) - Lightweight open source JavaScript SIP library.
