@@ -179,6 +179,7 @@
 ## Blogs
 
 - [BlogGeekMe](https://bloggeek.me/blog) - Blog by Tsahi Levent-Levi with a strong focus on WebRTC.
+- [Comms Advisor](https://commsadvisor.com/) - Practical explainers and reviews of business phone, help desk, and contact-center tools, plus a free Erlang-C staffing calculator.
 - [SIP Adventures](https://andrewjprokop.wordpress.com) - Unified communications blog by Andrew Prokop.
 - [WebRTCHacks](https://webrtchacks.com) - WebRTC blog by independent technologists.
 
