@@ -26,6 +26,7 @@
   - [Erlang Libraries](#erlang-libraries)
   - [Rust Libraries](#rust-libraries)
   - [Dart Libraries](#dart-libraries)
+  - [Media over QUIC](#media-over-quic)
 - [Blogs](#blogs)
 - [Discussion](#discussion)
 - [Events](#events)
@@ -174,6 +175,16 @@
 ### Dart Libraries
 
 - [dart-sip-ua](https://github.com/cloudwebrtc/dart-sip-ua) - Dart-lang port of JsSIP, capable of SIP over WebSocket.
+
+### Media over QUIC
+
+- [moq-rs](https://github.com/cloudflare/moq-rs) - Rust implementation of the IETF Media over QUIC Transport draft, maintained by Cloudflare.
+- [moq](https://github.com/moq-dev/moq) - Rust and TypeScript stack implementing moq-lite, a simplified subset of the IETF draft, with a relay, client libraries and a browser player.
+- [moqtail](https://github.com/moqtail/moqtail) - Rust and TypeScript libraries, relay and demo applications for Media over QUIC Transport.
+- [moxygen](https://github.com/facebookexperimental/moxygen) - C++ implementation of Media over QUIC Transport from Meta, with a relay, samples and interop tooling.
+- [libquicr](https://github.com/Quicr/libquicr) - C++ implementation of Media over QUIC Transport with command line publish, subscribe and capture clients.
+- [imquic](https://github.com/meetecho/imquic) - QUIC library written in C with support for RTP over QUIC and Media over QUIC Transport, developed by Meetecho.
+- [moqtransport](https://github.com/mengelbart/moqtransport) - Media over QUIC Transport implementation written in Go.
 
 
 ## Blogs
