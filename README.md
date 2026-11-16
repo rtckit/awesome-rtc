@@ -118,6 +118,7 @@
 - [WebRTC.org](https://webrtc.org/) - Official WebRTC guides, APIs and project resources.
 - [Getting Started With WebRTC](https://webrtc.org/getting-started/overview) - Official introduction to media capture and peer-to-peer connectivity APIs.
 - [WebRTC Samples](https://webrtc.github.io/samples) - Collection of samples demonstrating various parts of the WebRTC APIs.
+- [WebRTC for the Curious](https://webrtcforthecurious.com/) - Open book explaining WebRTC protocols, architecture and practical debugging.
 
 ### JavaScript Libraries
 
