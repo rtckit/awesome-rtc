@@ -1,0 +1,73 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Awesome lint and links
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      UV_THREADPOOL_SIZE: '1'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+          package-manager-cache: false
+
+      - name: Set validation CPU budget
+        id: cpu
+        run: |
+          python3 - <<'PY'
+          import os
+          available = sorted(os.sched_getaffinity(0))
+          cores = min(4, max(1, len(available) * 2 // 5))
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              print('cpuset=' + ','.join(map(str, available[:cores])), file=output)
+              print(f'cores={cores}', file=output)
+          PY
+
+      - name: Check Awesome list rules
+        run: taskset -c '${{ steps.cpu.outputs.cpuset }}' npx --yes awesome-lint@2.3.0 README.md
+
+      - name: Install link checker
+        run: |
+          curl --fail --location --retry 3 --output "$RUNNER_TEMP/lychee.tar.gz" \
+            https://github.com/lycheeverse/lychee/releases/download/lychee-v0.24.2/lychee-x86_64-unknown-linux-gnu.tar.gz
+          echo "1f4e0ef7f6554a6ed33dd7ac144fb2e1bbed98598e7af973042fc5cd43951c9a  $RUNNER_TEMP/lychee.tar.gz" | sha256sum --check
+          mkdir -p "$RUNNER_TEMP/lychee-bin"
+          tar -xzf "$RUNNER_TEMP/lychee.tar.gz" -C "$RUNNER_TEMP/lychee-bin" \
+            --strip-components=1 lychee-x86_64-unknown-linux-gnu/lychee
+
+      - name: Check links
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          taskset -c '${{ steps.cpu.outputs.cpuset }}' "$RUNNER_TEMP/lychee-bin/lychee" \
+            --config .lychee.toml --threads '${{ steps.cpu.outputs.cores }}' \
+            --format markdown --output "$RUNNER_TEMP/links.md" README.md CONTRIBUTING.md
+
+      - name: Publish link report
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/links.md" ]; then
+            cat "$RUNNER_TEMP/links.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
