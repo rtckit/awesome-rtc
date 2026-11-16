@@ -46,6 +46,7 @@
 - [Routr](https://routr.io) - Lightweight SIP proxy, location server, and registrar written in Node.js.
 - [Sippy B2BUA](https://github.com/sippy/b2bua) - Back-to-back user agent server written in Python.
 - [Flexisip](https://github.com/BelledonneCommunications/flexisip) - SIP server suite comprising proxy, presence and group chat functions.
+- [FreeSBC](https://github.com/rasonyang/freesbc) - Open source SIP/WebRTC edge proxy with an embedded RTP relay for FreeSWITCH and Asterisk.
 
 ### Media Servers
 
