@@ -138,6 +138,7 @@
 - [Netflux](https://github.com/coast-team/netflux) - Isomorphic JavaScript peer to peer transport API for client and server.
 - [Peerix](https://github.com/meefik/peerix) - TypeScript WebRTC library for peer-to-peer media and data with pluggable signalling drivers.
 - [PeerJS](https://peerjs.com) - Data and media peer-to-peer connection API implemented over WebRTC.
+- [webrtc-recovery](https://github.com/AiLaoHuYu/webrtc-recovery) - Recovery ladder and frame watchdog for WebRTC viewers.
 - [Socio](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) API framework. Realtime Front-end, Back-end reactivity.
 
 ### C/C++ Libraries
