@@ -162,6 +162,7 @@
 ### Dart Libraries
 
 - [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua) - Dart SIP user-agent stack with SIP over WebSocket and WebRTC media support.
+- [Flutter WebRTC](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC bindings for Flutter applications on mobile, desktop and the web.
 
 ### Media over QUIC
 
