@@ -141,6 +141,7 @@
 - [libSRTP](https://github.com/cisco/libsrtp) - Secure Real-time Transport Protocol (SRTP) library for C.
 - [usrsctp](https://github.com/sctplab/usrsctp) - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 - [Sofia-SIP](https://github.com/freeswitch/sofia-sip) - Open source SIP library used by FreeSWITCH.
+- [GStreamer WebRTC](https://gstreamer.freedesktop.org/documentation/webrtc/) - WebRTC elements for connecting native GStreamer media pipelines to browser peers.
 
 ### Go Libraries
 
