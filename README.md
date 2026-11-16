@@ -101,6 +101,7 @@
 - [jambonz](https://www.jambonz.org) - Open source CPaaS built for communications service providers.
 - [IVOZ Provider](https://github.com/irontec/ivozprovider) - Multitenant solution for VoIP telephony providers.
 - [Sayna](https://github.com/SaynaAI/sayna) - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+- [AI Native Call Center](https://github.com/rasonyang/ai-native-callcenter) - FreeSWITCH-based call center with speech-to-speech AI, agent queues and a web interface/API.
 
 ### Billing
 
