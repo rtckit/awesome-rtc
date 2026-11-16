@@ -27,6 +27,7 @@
   - [Erlang Libraries](#erlang-libraries)
   - [Rust Libraries](#rust-libraries)
   - [Dart Libraries](#dart-libraries)
+  - [Media over QUIC](#media-over-quic)
 - [Blogs](#blogs)
 - [Discussion](#discussion)
 - [Events](#events)
@@ -184,6 +185,12 @@
 ### Dart Libraries
 
 - [dart-sip-ua](https://github.com/cloudwebrtc/dart-sip-ua) - Dart-lang port of JsSIP, capable of SIP over WebSocket.
+
+### Media over QUIC
+
+Experimental implementations for live media over QUIC and WebTransport. Supported draft versions and protocol variants differ; check compatibility before combining implementations.
+
+- [moq-rs](https://github.com/cloudflare/moq-rs) - Rust implementation of Media over QUIC Transport with a relay and sample publishers.
 
 
 ## Blogs
