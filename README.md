@@ -191,6 +191,7 @@
 Experimental implementations for live media over QUIC and WebTransport. Supported draft versions and protocol variants differ; check compatibility before combining implementations.
 
 - [moq-rs](https://github.com/cloudflare/moq-rs) - Rust implementation of Media over QUIC Transport with a relay and sample publishers.
+- [moq](https://github.com/moq-dev/moq) - Rust and TypeScript libraries, relay and browser player implementing moq-lite.
 
 
 ## Blogs
