@@ -73,6 +73,7 @@
 ## Clients
 
 - [Web SIP Phone](https://github.com/rasonyang/web-sip-phone) - Chrome extension maintaining SIP/WebRTC audio for server-controlled call center agents.
+- [webrtc-sip-softphone](https://github.com/AhmedElbashier/webrtc-sip-softphone) - Browser SIP softphone (JsSIP over WebSocket, WebRTC audio, DTMF and live stats) with a docker-compose Kamailio and FreeSWITCH lab for echo, IVR and phone-to-phone tests.
 - [baresip](https://github.com/baresip/baresip) - Modular SIP user agent with command-line controls, audio/video calls and pluggable media modules.
 
 
