@@ -74,6 +74,7 @@
 
 - [Web SIP Phone](https://github.com/rasonyang/web-sip-phone) - Chrome extension maintaining SIP/WebRTC audio for server-controlled call center agents.
 - [baresip](https://github.com/baresip/baresip) - Modular SIP user agent with command-line controls, audio/video calls and pluggable media modules.
+- [Siperb Web Phone](https://github.com/Siperb/Web-Phone) - MIT-licensed WebRTC SIP phone SDK with a headless API and an embeddable phone, for any SIP server.
 
 
 ## Operations
